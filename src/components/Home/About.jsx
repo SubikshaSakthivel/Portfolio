@@ -21,11 +21,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">Subiksha S </span>
+                 and I'm from <span className="yellow"> Salem.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I recently graduated with a Bachelor's degree in Computer Science  in 2020.
                 <br />
                 <br />
                   As a
@@ -77,7 +77,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/SubikshaSakthivel"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -86,7 +86,7 @@ const About = () => {
                       <AiFillGithub />
                     </a>
                   </li>
-                  <li className="social-icons">
+                  {/* <li className="social-icons">
                     <a
                       href="https://twitter.com/19sajib"
                       target="_blank"
@@ -96,10 +96,10 @@ const About = () => {
                     >
                       <AiOutlineTwitter />
                     </a>
-                  </li>
+                  </li> */}
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/subiksha-s-23903b289/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
